@@ -8,7 +8,7 @@ if __name__ == '__main__':
     Makes the visualization. """
 
     use_cuda = True
-    image_path = "./examples/im123.png"
+    image_path = "./data/im123.png"
 
     # Can work with any model, but it assumes that the model has a
     # feature method, and a classifier method,
